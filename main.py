@@ -70,5 +70,4 @@ def replay():
         print("Invalid input, please try again")
         replay()
         
-# Print results
 initialize()
